@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>My Personal Website </title>
+	
+	
+	
+	<style> 
+	body {
+	      
+		  background: url('sea.jpg');
+		  background-size: 100% 100%;
+	} 
+	
+	p.margin {
+           margin-top: 30px;
+		   margin-right: 60px;
+		   margin-bottom: 60px;
+		   margin-left: 60px;
+	}
+	h1 {
+	  text-align: center;
+	  text-color: white;
+	  text-background:black;
+	}
+	
+	}  
+    h3 {
+	   text-transform: capitalize;
+	   text-decoration: underline;
+	   
+
+	}	   
+	
+	div.ship {
+	   text-align: center;
+	 
+	}
+	
+	div.top {
+     width: 100%; 
+	 height: 200px;	 
+	 background-position: center;
+
+	 
+	}
+	
+	div.top h1 {
+	width: 100%;
+	height: 150px;
+	line-height: 150px;
+	text-align: center;
+	font-size: 70px;
+	margin: 0;
+	color: black;
+	}
+	
+	div.menu { 
+	 width: 100%;
+	 background-color: black;
+	}
+	
+	div.menu ul {
+	 width: 100%;
+	 margin: auto;
+	 list-style: none;
+	 padding: 0;
+	 font-size: 20px;
+	}
+
+	div.menu ul li {
+	 display: inline-block;
+	 padding: 15px 30px 15px 30px; /*same value with
+	 padding: 15px 30px*/
+	 color: white;
+	 }
+	
+	div.menu ul li a:hover {
+	  display: inline-block
+	  padding: 50px 50px 50px 50px;
+	  color: white;
+	  background-color:black;
+	}
+	
+	
+	</style>
+  </head>
+  <body>
+    <div class='top'>
+         <h1>Personal Website</h1>	 
+	 </div>  
+  
+  <div class="menu">
+     <ul>
+	 <li> <a href="home.html" class="current">Home</a> </li>
+	 <li><a href="Gallery.html">Gallery</a></li>
+     <li><a href="Contact us.html">Contact us</a></li>
+     <li><a href="About me.html">About me</a></li>
+     </ul>
+</div>
+    <title>Social Media Links</title>
+	<link rel="stylesheets" href="css/custom.css" />
+<body>
+<div class="container">
+<h1 class="text-center">My Social Media Links</h1>
+<div style="text-align: center;">
+ 
+</div>
+ </head>
+ <style>
+   .social-icon {
+     color: #0000FF;
+	 transition: color 0.2s;
+	 text-decoration: none;
+	 margin: 0 10px;
+	 padding: 0;
+	 top: 100%;
+	 left: 100%;
+	 font-size: 3.75em;
+	}
+	
+	.social-icon:hover {
+	 color: #333333;
+	 list-style: none
+	 margin: 0 15px;
+	 
+	 }
+	.social-icon ul li. 
+
+ </style>
+ 
+<body style="background-color:hsla(0,100%,50%,0.5);">
+
+</body> 
+
+
+ <body>
+ <a class="social-icon" href="https://twitter.com/damnitsybil" target="_blank">
+ <i class="fa-brands fa-twitter"></i>
+ 
+ 
+ </a>
+ 
+  <a class="social-icon" href="https://www.facebook.com/santossybil" target="_blank">
+  <i class="fa-brands fa-facebook"></i>
+ </a>
+ 
+  <a class="social-icon" href="https://www.instagram.com/sodughhh/" target="_blank">
+<i class="fa-brands fa-instagram"></i>
+ </a>
+ 
+
+ <script src="https://kit.fontawesome.com/dc4a2c3248.js" crossorigin="anonymous"></script>
+ 
+ </body>
+ </html>
